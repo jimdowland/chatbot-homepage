@@ -1,7 +1,7 @@
 import { ApiAiClient } from "api-ai-javascript";
 import './style.css';
 
-const client = new ApiAiClient({ accessToken: '805cab0b4a9d4df9b02dc7d0b8b5340c' });
+const client = new ApiAiClient({ accessToken: '' });
 var button = document.querySelector("button");
 var textarea = document.querySelector("textarea");
 var ul = document.querySelector("ul");
